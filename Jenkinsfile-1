@@ -16,7 +16,7 @@
     {
         echo "Unit Testing"
     }
-    stage("Delivery")
+    stage('Delivery')
     {
         echo "Deliver the code"
     }
